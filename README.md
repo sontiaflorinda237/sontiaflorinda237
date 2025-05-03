@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning html, java and css
 - 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me more experience
+- 📫 How to reach me sontialybide2021@gmail.com
 - ⚡ Fun fact: coding, reading 
 
 <!---
